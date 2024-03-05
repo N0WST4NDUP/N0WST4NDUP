@@ -4,21 +4,7 @@
 
 <head>
 
-<meta charset="EUC-KR">
-
-<style type="text/css">
-
-table {
-
- text-align: center;
-
- table-layout: fixed;
-
-}
-
-</style>
-
-<title>Insert title here</title>
+<meta charset="UTF-8">
 
 </head>
 
