@@ -38,9 +38,31 @@ Click Here! 👇
 
 <details align=center>
 <summary>
-  <strong>Projects</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
+  <strong>Projects</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="star" width="20px" />
 </summary>
    <br>
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="2%" /> Latest project : <br>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Latest project : <br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
 </details>
+
+<br>
+
+<div align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0WST4NDUP&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=271 /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=N0WST4NDUP&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=400 /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=N0WST4NDUP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=671 /></a>
+</div>
+
+<div align=center>
+<h3>Thanks for visiting! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png?raw=true" alt="thanks to" width="20px" /></h3>
+ 
+<h6>
+ <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
+ Social
+ <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
+</h6>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/now_standup)](https://www.instagram.com/now_standup)
+</div>
