@@ -22,6 +22,7 @@ Click Here! 👇
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/2a07d6f5-0a42-4663-befb-010d8c914aed" width="25">|`HTML5`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/669902ed-6855-4743-be5b-8bd689a5c87f" width="25">|`CSS3`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/a61c99ed-5d3a-4dd8-bbaa-010755b08078" width="25">|`JS`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/6223cf9f-59fe-449d-9719-2aabff8083c5" width="25">|`R`|<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Frowning%20Face.png?raw=true" alt="beginner" width="25">|
 
 |**#**|**Framework**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
