@@ -43,11 +43,11 @@ Click Here! 👇
    <br>
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Latest project : <br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
-</details>
-
-<br>
+</details><br>
 
 <div align=center>
+<h2><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Man" width="30px" /> Status <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png?raw=true" alt="T-Rex" width="30px" /></h2>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0WST4NDUP&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=271 /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=N0WST4NDUP&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=400 /></a>
 
