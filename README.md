@@ -41,6 +41,6 @@ Click Here! 👇
   <strong>Projects</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
 </summary>
    <br>
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="2%" /> Latest project : <a href="#latest.href">클릭</a><br>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="2%" /> Latest project : <a href="https://github.com/N0WST4NDUP/releases/latest">클릭</a><br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
 </details>
