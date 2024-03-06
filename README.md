@@ -6,7 +6,7 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
 </p><br>
 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=3000&pause=1500&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=2000&pause=800&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
 </div>
 <details align=center>
 <summary>
