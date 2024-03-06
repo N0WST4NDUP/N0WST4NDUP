@@ -63,7 +63,7 @@ Sorry, <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/bl
 
 <div align=center>
 <h3>Thanks for visiting! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png?raw=true" alt="thanks to" width="20px" /></h3>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN0WST4NDUP%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN0WST4NDUP%2F&count_bg=%237C688A&title_bg=%235B4D62&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
 <h6>
  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
