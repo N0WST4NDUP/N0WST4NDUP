@@ -15,9 +15,8 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
 
 <div align=center>
  
-|**Date**|**dd**|
-|:----------:|:-------------------:|
-|`2023-09 ~ `|I started |
+|`2023-09 ~ 2024-04`|`I began programming & completed a government-funded education program.`|
+|:--------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 </div>
 </details>
 
