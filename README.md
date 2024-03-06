@@ -1,11 +1,7 @@
-<img src="./banner.png" alt="banner" width="100%" />
+<img src="./banner(1).png" alt="banner" width="100%" />
 
-<h3 align=center> 
-Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="WavingHand" width="30px" />
-</h3>
-<p align="center">
- I’m <b>N0WST4NDUP</b> from <b>Seoul</b>, 🇰🇷
-</p><br>
+<h3 align="center">
+ I’m <b>N0WST4NDUP</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" /></h3><br>
 
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=2000&pause=800&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
