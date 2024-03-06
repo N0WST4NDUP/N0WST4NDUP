@@ -12,7 +12,13 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
 <summary>
   <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Office%20Building.png?raw=true" alt="career" width="20px" />
 </summary>
-Sorry, <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png?raw=true" alt="Fire" width="10px" />
+
+<div align=center>
+ 
+|**Date**|**dd**|
+|:----------:|:-------------------:|
+|`2023-09 ~ `|I started |
+</div>
 </details>
 
 <details>
