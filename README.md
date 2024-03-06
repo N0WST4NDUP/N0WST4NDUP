@@ -1,9 +1,18 @@
 <img src="./banner(1).png" alt="banner" width="100%" />
 
 <h3 align="center">
- I’m <b>N0WST4NDUP</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" />
-</h3><br>
+I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" />
+</h3>
+<div>
 
+`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+
+</div>
+<br>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=2000&pause=800&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
 </div>
