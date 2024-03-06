@@ -5,9 +5,9 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
  I’m <b>N0WST4NDUP</b> from <b>Seoul</b>, 🇰🇷
 </p><br>
 
-<h6 align="center">
-Click Here! 👇
-</h6>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=3000&pause=1500&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
+</div>
 <details align=center>
 <summary>
   <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Office%20Building.png?raw=true" alt="career" width="20px" />
