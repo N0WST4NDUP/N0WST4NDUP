@@ -8,10 +8,17 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
 <h6 align="center">
 Click Here! 👇
 </h6>
+<details align=center>
+<summary>
+  <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Office%20Building.png?raw=true" alt="career" width="20px" />
+</summary>
+Sorry, <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png?raw=true" alt="Fire" width="10px" />
+</details>
+
 <details>
 <summary align=center>
   <strong>Tech Stack</strong>
-  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="WritingHand" width="20px" />
+  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="techStack" width="20px" />
 </summary><br>
 
 <div align=center>
@@ -39,7 +46,7 @@ Click Here! 👇
 
 <details align=center>
 <summary>
-  <strong>Projects</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="star" width="20px" />
+  <strong>Projects</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="projects" width="20px" />
 </summary>
    <br>
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Latest project : <br>
@@ -56,6 +63,7 @@ Click Here! 👇
 
 <div align=center>
 <h3>Thanks for visiting! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png?raw=true" alt="thanks to" width="20px" /></h3>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN0WST4NDUP%2F&count_bg=%238D7496&title_bg=%235B4570&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
 <h6>
  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
