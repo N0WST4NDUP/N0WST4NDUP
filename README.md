@@ -3,7 +3,7 @@
 <h3 align="center">
 I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" />
 </h3>
-<div>
+<div align=center>
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
