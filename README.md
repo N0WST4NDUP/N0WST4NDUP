@@ -5,11 +5,10 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 </h3>
 <div align=center>
 
-    The catalyst for my journey into programming stemmed from my curiosity and the desire to harness my creativity through a tool.
-    I embarked on this path with Java, but my interest extends to exploring other languages as well.
-    Continuously acquiring new skills and languages brings me immense joy.
-    I find fulfillment in the process of learning, understanding, and applying these technologies.
-    Ultimately, I aspire to create my own modules, libraries, and eventually delve into framework development.
+    프로그래밍에 푹 빠지게 된 계기는 제 호기심과 창의력이 큰 역할을 했어요.
+    처음에는 자바로 시작해서 다른 언어에도 관심을 확장 중이에요.
+    계속해서 새로운 기술과 언어를 배우는 것이 재밌으며, 그 과정에서 성취감을 느끼고 있어요.
+    언젠가는 스스로 모듈이나 라이브러리를 만들어보고 싶고, 더 나아가 프레임워크까지 만들어보고 싶어요. 😊
 
 </div>
 <br>
