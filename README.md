@@ -64,7 +64,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
   <strong>Projects</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="projects" width="20px" />
 </summary>
    <br>
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Latest project : <br>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Order by latest <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /><br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
 </details><br>
 
