@@ -5,11 +5,11 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 </h3>
 <div align=center>
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+    The catalyst for my journey into programming stemmed from my curiosity and the desire to harness my creativity through a tool.
+    I embarked on this path with Java, but my interest extends to exploring other languages as well.
+    Continuously acquiring new skills and languages brings me immense joy.
+    I find fulfillment in the process of learning, understanding, and applying these technologies.
+    Ultimately, I aspire to create my own modules, libraries, and eventually delve into framework development.
 
 </div>
 <br>
