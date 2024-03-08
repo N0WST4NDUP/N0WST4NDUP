@@ -9,9 +9,8 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
     처음에는 자바로 시작해서 다른 언어에도 관심을 확장 중이에요.
     계속해서 새로운 기술과 언어를 배우는 것이 재밌으며, 그 과정에서 성취감을 느끼고 있어요.
     언젠가는 스스로 모듈이나 라이브러리를 만들어보고 싶고, 더 나아가 프레임워크까지 만들어보고 싶어요. 😊
-
+    
 </div>
-<br>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=2000&pause=800&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
 </div>
