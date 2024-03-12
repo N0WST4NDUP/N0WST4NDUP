@@ -1,12 +1,16 @@
-<img src="./banner.png" alt="banner" width="100%" />
+<img src="./banner(1).png" alt="banner" width="100%" />
 
-<h3 align=center> 
-Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="WavingHand" width="30px" />
+<h3 align="center">
+I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" />
 </h3>
-<p align="center">
- I’m <b>N0WST4NDUP</b> from <b>Seoul</b>, 🇰🇷
-</p><br>
+<div align=center>
 
+    프로그래밍에 푹 빠지게 된 계기는 제 호기심과 창의력이 큰 역할을 했어요.
+    처음에는 자바로 시작해서 다른 언어에도 관심을 확장 중이에요.
+    계속해서 새로운 기술과 언어를 배우는 것이 재밌으며, 그 과정에서 성취감을 느끼고 있어요.
+    언젠가는 스스로 모듈이나 라이브러리를 만들어보고 싶고, 더 나아가 프레임워크까지 만들어보고 싶어요. 😊
+    
+</div>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=200&size=11&duration=2000&pause=800&color=747474&center=true&vCenter=true&random=false&width=300&height=15&lines=Click+here!+%F0%9F%91%87;Here+we+are!+%F0%9F%91%87" alt="Typing SVG" /></a>
 </div>
@@ -43,6 +47,8 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/5cd1cad8-a403-48fd-bff4-aafffe3f4ba7" width="25">|`Spring`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/26a7b262-a0cf-4ed4-8db5-6f2a2423fa2b" width="25">|`Spring Boot`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true" alt="beginner" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/cbabfb77-08a7-4dcb-aebd-b3b0bea004dd" width="25">|`Mybatis`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/2bcf8671-0119-4835-a67e-e2b70644a73b" width="25">|`React`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/004773e6-1a1c-4879-853c-98a1f1ec49af" width="25">|`Bootstrap`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true" alt="beginner" width="25">|
 
 |**#**|**DataBase**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
@@ -56,7 +62,7 @@ Hi there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob
   <strong>Projects</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Star.png?raw=true" alt="projects" width="20px" />
 </summary>
    <br>
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Latest project : <br>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Order by latest <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /><br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
 </details><br>
 
