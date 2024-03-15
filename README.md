@@ -30,9 +30,14 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 <summary align=center>
   <strong>Tech Stack</strong>
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="techStack" width="20px" />
-</summary><br>
+</summary>
 
 <div align=center>
+<h6>OS</h6>
+<div>
+    <img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/4c69d358-aee3-41b6-ae4c-2e4ed4169d3b" width="20">
+    <img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/1d5278e7-4cfc-457f-9175-6b1acfd78fe6" width="20">
+</div><br>
 
 |**#**|**Language**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
