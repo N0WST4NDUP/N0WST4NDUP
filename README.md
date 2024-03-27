@@ -21,8 +21,8 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 
 <div align=center>
  
-|`2023-09 ~ 2024-04`|`I began programming & completed a government-funded education program.`|`JAVA Web full-stack`|
-|:--------------------------------------:|:---------------------------------------------------------------------------------------------------:|:-------------------------------:|
+|`2023-09 ~ 2024-04`|`I began programming & completed a government-funded education program.`|
+|:--------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 </div>
 </details>
 
