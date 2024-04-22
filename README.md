@@ -16,7 +16,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 </div>
 <details align=center>
 <summary>
-  <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Office%20Building.png?raw=true" alt="career" width="20px" />
+  <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="career" width="20px" />
 </summary>
 
 <div align=center>
@@ -28,10 +28,8 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 
 <details>
 <summary align=center>
-  <strong>Tech Stack</strong>
-  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="techStack" width="20px" />
+  <strong>Tech Stack</strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="techStack" width="23px" />
 </summary>
-
 <div align=center>
 <h6>OS</h6>
 <div>
@@ -42,14 +40,14 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 |**#**|**Language**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/861e094c-8cef-4515-bb02-022b5071982d" width="25">|`JAVA`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png?raw=true" alt="advanced" width="25">|
-|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/ecf92daa-be80-4aab-ac94-2e7324cd93eb" width="25">|`PYTHON`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true" alt="beginner" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/ecf92daa-be80-4aab-ac94-2e7324cd93eb" width="25">|`PYTHON`|<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="learning" width="28">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/a61c99ed-5d3a-4dd8-bbaa-010755b08078" width="25">|`JS`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/6223cf9f-59fe-449d-9719-2aabff8083c5" width="25">|`R`|<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Frowning%20Face.png?raw=true" alt="beginner" width="25">|
 
 |**#**|**Framework**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/5cd1cad8-a403-48fd-bff4-aafffe3f4ba7" width="25">|`Spring`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
-|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/cbabfb77-08a7-4dcb-aebd-b3b0bea004dd" width="25">|`Mybatis`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/f0cf3485-e54b-4156-b4b4-b271ef14524f" width="25">|`FastAPI`|<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="learning" width="28">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/2bcf8671-0119-4835-a67e-e2b70644a73b" width="25">|`React`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true" alt="beginner" width="25">|
 
 |**#**|**DataBase**|**Proficiency**|
