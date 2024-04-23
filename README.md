@@ -84,6 +84,6 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
 </h6>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
-[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=kakaotalk&logoColor=black&link=http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxli_ZrAJtKg-)](http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxli_ZrAJtKg-)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
+[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=)]()
 </div>
