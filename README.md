@@ -85,5 +85,5 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 </h6>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
-[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=)]()
+[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxIi_ZrAJtKg-)](http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxIi_ZrAJtKg-)
 </div>
