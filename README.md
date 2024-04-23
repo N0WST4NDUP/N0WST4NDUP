@@ -80,10 +80,10 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
  
 <h6>
  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
- Social
+ Contact me!
  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Crossed%20Fingers.png?raw=true" alt="CrossedFinger" width="12px" />
 </h6>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/now_standup)](https://www.instagram.com/now_standup)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:n0wst4ndup@gmail.com)](mailto:n0wst4ndup@gmail.com)
+[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=kakaotalk&logoColor=black&link=http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxli_ZrAJtKg-)](http://qr.kakao.com/talk/tQFSFSlqsaAoB6fCxli_ZrAJtKg-)
 </div>
