@@ -47,7 +47,6 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 |**#**|**Framework**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/5cd1cad8-a403-48fd-bff4-aafffe3f4ba7" width="25">|`Spring`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
-|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/f0cf3485-e54b-4156-b4b4-b271ef14524f" width="25">|`FastAPI`|<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="learning" width="28">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/2bcf8671-0119-4835-a67e-e2b70644a73b" width="25">|`React`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true" alt="beginner" width="25">|
 
 |**#**|**DataBase**|**Proficiency**|
