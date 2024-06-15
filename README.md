@@ -52,6 +52,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 |**#**|**DataBase**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/4342d33a-c8d6-4d00-a4e6-903fbff7010c" width="25">|`Oracle`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Advance" width="25">|
+|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/4a8c29cf-5a57-48da-8a00-b91973140ea2" width="25">|`Redis`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Advance" width="25">|
 
 </div>
 </details>
