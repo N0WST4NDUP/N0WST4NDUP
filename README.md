@@ -80,7 +80,6 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 <h2>Velog</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup)](https://github.com/n0wst4ndup/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup&tag=)](https://github.com/n0wst4ndup/velog-readme-stats)    
 </div>
 
 
