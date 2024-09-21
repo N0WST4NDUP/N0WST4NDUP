@@ -72,7 +72,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
   <strong>Note</strong> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="note" width="20px" />
 </summary><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup)](https://github.com/n0wst4ndup/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup)
 </details><br>
 
 <div align=center>
