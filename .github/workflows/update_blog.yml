@@ -1,0 +1,35 @@
+name: Update Blog Posts
+  
+
+on:
+  push:
+      branches:
+        - main
+  schedule:
+    - cron: '0 6 * * *' 
+
+jobs:
+  update_blog:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Push changes
+      run: |
+        git config --global user.name 'N0WST4NDUP'
+        git config --global user.email 'dlwotjtj9898@gmail.com'
+        git push https://${{ secrets.SecretKey }}@github.com/N0WST4NDUP/N0WST4NDUP.git 
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser gitpython
+
+    - name: Run script
+      run: python scripts/update_blog.py
