@@ -16,7 +16,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 </div>
 <details align=center>
 <summary>
-  <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="career" width="20px" />
+  <strong>Career</strong> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png?raw=true" alt="career" width="23px" />
 </summary>
 
 <div align=center>
@@ -64,6 +64,15 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
    <br>
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /> Order by latest <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Fire" width="20px" /><br>
 <a href="https://github.com/N0WST4NDUP/WhereHouse-2/" id="latest">MZ세대를 위한 거주지 추천 서비스</a><br>
+</details>
+
+
+<details align=center>
+<summary>
+  <strong>Note</strong> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="note" width="20px" />
+</summary><br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup)](https://github.com/n0wst4ndup/velog-readme-stats)
 </details><br>
 
 <div align=center>
@@ -72,14 +81,6 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0WST4NDUP&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=271 /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=N0WST4NDUP&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=400 /></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=N0WST4NDUP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=671 /></a>
-</div>
-
-
-<div align=center>
-<br>
-<h2>Velog</h2>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup)](https://github.com/n0wst4ndup/velog-readme-stats)
 </div>
 
 
