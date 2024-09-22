@@ -70,9 +70,11 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 <details align=center>
 <summary>
   <strong>Note</strong> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="note" width="20px" />
-</summary><br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup)
+</summary>
+    
+## Latest post
+**#SpringBoot**    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup&tag=SpringBoot)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup&tag=SpringBoot)
 </details><br>
 
 <div align=center>
