@@ -77,6 +77,8 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup&tag=SpringBoot)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup&tag=SpringBoot)    
 #### #Algorithm
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup&tag=Algorithm)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup&tag=Algorithm)    
+#### #Architecture
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=n0wst4ndup&tag=Architecture)](https://velog-readme-stats.vercel.app/api/redirect?name=n0wst4ndup&tag=Architecture)    
 </details><br>
 
 <div align=center>
