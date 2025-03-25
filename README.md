@@ -87,9 +87,3 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=N0WST4NDUP&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=671 /></a>
 </div>
 
-
-<div align=center>
-<h3>Thanks for visiting! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png?raw=true" alt="thanks to" width="20px" /></h3>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN0WST4NDUP%2F&count_bg=%237C688A&title_bg=%235B4D62&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
-</div>
-
