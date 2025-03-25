@@ -1,5 +1,3 @@
-<img src="./banner(1).png" alt="banner" width="100%" />
-
 <h3 align="center">
 I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Baby%20Chick.png?raw=true" alt="junior" width="40px" />
 </h3>
