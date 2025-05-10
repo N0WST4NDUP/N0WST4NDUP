@@ -19,8 +19,10 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 
 <div align=center>
  
-|`2023-09 ~ 2024-04`|`I began programming & completed a government-funded education program.`|
+|`2024-06 ~ 2025-06`|`Bachelor’s Degree Recognition (Computer Science)`|
 |:--------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+|`2023-09 ~ 2024-04`|`I began programming & completed a government-funded education program.`|
+
 </div>
 </details>
 
@@ -39,8 +41,7 @@ I’m <b>JAESEO LEE</b> <img src="https://github.com/Tarikul-Islam-Anik/Animated
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/861e094c-8cef-4515-bb02-022b5071982d" width="25">|`JAVA`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png?raw=true" alt="advanced" width="25">|
 |<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/ecf92daa-be80-4aab-ac94-2e7324cd93eb" width="25">|`PYTHON`|<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="learning" width="28">|
-|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/a61c99ed-5d3a-4dd8-bbaa-010755b08078" width="25">|`JS`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
-|<img src="https://github.com/N0WST4NDUP/N0WST4NDUP/assets/153244723/6223cf9f-59fe-449d-9719-2aabff8083c5" width="25">|`R`|<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Frowning%20Face.png?raw=true" alt="beginner" width="25">|
+|<img src="https://github.com/user-attachments/assets/01ea6ca1-2f6a-4e5d-831c-f58c98e59af7" width="25">|`TypeScript`|<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" alt="Intermediate" width="25">|
 
 |**#**|**Framework**|**Proficiency**|
 |:------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------------:|
